@@ -1,10 +1,27 @@
-Expense Tracker App
-This is a simple and elegant app that helps you track your personal expenses. You can add, edit, and delete expenses by using the intuitive interface. You can also view a chart of your expenses by category and date.
+# Flutter & Dart Expense Tracker App
 
-Features
-Add new expenses by tapping the + button on the bottom right corner. You can enter the amount, title, category, and date of the expense.
-Edit existing expenses by tapping on them. You can change any of the details or delete the expense.
-Delete expenses by swiping them to the left or right. You will see a confirmation dialog before deleting.
-Pick a date from the calendar by tapping on the date field. You can also use the arrows to navigate between months.
-The app will automatically adapt to your system theme as well.
-There's a chart to show the data of your expenses
+## Overview
+
+This is an Expense Tracker App built using Flutter and Dart. The app allows you to keep track of your daily expenses with features like picking dates from a calendar, deleting expenses by swiping, and viewing a chart of your expenses. It also supports both light and dark modes.
+
+## Features
+
+- **Expense Tracking**: Keep track of your daily expenses in a simple and intuitive interface.
+- **Date Picker**: Select the date of your expense directly from a calendar.
+- **Swipe to Delete**: Simply swipe an expense to delete it from your list.
+- **Light and Dark Modes**: Choose between light and dark themes for a comfortable viewing experience according to your preference.
+- **Expense Chart**: Visualize your spending habits with a detailed chart of your expenses.
+
+## Getting Started
+
+1. **Clone the repo**: Use `git clone https://github.com/yourusername/expense-tracker.git` to clone this repository to your local machine.
+2. **Install dependencies**: Run `flutter pub get` in the project directory to install all necessary dependencies.
+3. **Run the app**: Use `flutter run` to start the app on your local device or emulator.
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page].
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
