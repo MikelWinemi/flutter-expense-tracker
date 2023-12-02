@@ -14,7 +14,7 @@ This is an Expense Tracker App built using Flutter and Dart. The app allows you 
 
 ## Getting Started
 
-1. **Clone the repo**: Use `git clone https://github.com/MikelWinwmi/flutter-expense-tracker.git` to clone this repository to your local machine.
+1. **Clone the repo**: Use `git clone https://github.com/MikelWinemi/flutter-expense-tracker.git` to clone this repository to your local machine.
 2. **Install dependencies**: Run `flutter pub get` in the project directory to install all necessary dependencies.
 3. **Run the app**: Use `flutter run` to start the app on your local device or emulator.
 
